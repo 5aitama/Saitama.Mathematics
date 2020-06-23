@@ -1,0 +1,23 @@
+{
+  "name": "com.saitama.mathematics",
+  "version": "1.0.0",
+  "displayName": "Saitama Mathematics",
+  "description": "Set of help math methods",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0",
+    "com.unity.test-framework": "1.1.14"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "5aitma",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "hideInEditor": false
+}
